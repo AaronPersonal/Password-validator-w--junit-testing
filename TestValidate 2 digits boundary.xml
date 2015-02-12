@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestValidate" project="PasswordValidator" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="ca.beehooaa.TestValidate" time="0.0">
+    <testcase name="testValidateMinNumBadInput" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateMinNum" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateAlphaBadInput" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateAlphaBoundary" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateMinLength" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateMinNumBoundaryInput" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateAlpha" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateMinLengthBadInput" classname="ca.beehooaa.TestValidate" time="0.0"/>
+    <testcase name="testValidateMinLengthBoundary" classname="ca.beehooaa.TestValidate" time="0.0"/>
+  </testsuite>
+</testrun>
